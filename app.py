@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import scipy.stats
 import streamlit as st
@@ -53,3 +54,10 @@ st.write(st.session_state['df_experiment_results'])
 
 
 #st.write('Esta aplicación aún no es funcional. En construcción.')
+=======
+import streamlit as st
+
+st.header('Lanzar una moneda')
+st.write('Esta aplicación aún no es funcional. En construcción.')
+
+>>>>>>> 5bdc48cc71ec1b8288ed408f11ff25ce0d8753c3
